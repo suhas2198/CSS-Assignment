@@ -1,0 +1,44 @@
+body{
+    border:solid 2px;
+}
+
+/*styling of table*/
+
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 100%;
+
+} 
+td{
+    border:solid 1px;
+}
+
+
+ul.a{
+    list-style-type: disc;;
+}
+
+ul.b{
+    list-style-type:square;
+}
+ul.c{
+    list-style-type:circle;
+}
+
+
+ol.e{
+    list-style-type:upper-roman ;
+  
+
+}
+ol.f{
+    list-style-type:lower-alpha;
+
+}
+/*styling of paragraph*/
+
+.box{
+
+    margin-left:10px
+}
